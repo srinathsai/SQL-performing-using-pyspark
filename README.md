@@ -20,7 +20,7 @@ GraphX :
 GraphX is a library used to control graphs and carry out graph parallel computations. It helps various fundamental operators such as Subgraph, Join Vertices, and Aggregate Messages for running with graphs. This facilitates the introduction of directed graphs with arbitrary properties
 related to each vertex and facet.<br />
 
-Pysprark
+Pysprark:
 PySpark is the association of Apache Spark and Python. Apache Spark is an analytics processing engine for large, high-performance distributed data processing and machine learning applications.<br />
 
 A PySpark library for applying SQL-like analysis to large amounts of structured or semi-structured data. We can also use SQL queries with PySpark SQL. You can also connect to Apache Hive.HiveQL can also be applied. PySpark SQL is a wrapper for the PySpark core. PySpark SQL introduced a data frame, which is a tabular representation of structured data that resembles a table in a relational database management system.<br />
@@ -29,3 +29,5 @@ STEPS OF EXECUTION :- FOLLOW THE ATTACHED README PDF.
 
 CONCLUSION:-
 With the help of pyspark a SQL query of grouping by two coloumns in which average of toeflScore along with major has been generated.
+
+DATASET :- attached csv file downloaded from kaggle.
