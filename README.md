@@ -28,4 +28,4 @@ A PySpark library for applying SQL-like analysis to large amounts of structured 
 STEPS OF EXECUTION :- FOLLOW THE ATTACHED README PDF.
 
 CONCLUSION:-
-With the help of pyspark a SQL query of grouping by two coloumns ikn which average of toeflScore along with major has been generated.
+With the help of pyspark a SQL query of grouping by two coloumns in which average of toeflScore along with major has been generated.
